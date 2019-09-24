@@ -491,9 +491,8 @@
                         <artifactId>maven-jxr-plugin</artifactId>
                         <version>2.1</version>
                     </plugin>
-                    <plugins>
-                 
-  </plugins>
+                    
+               
                 </plugins>
             </reporting>
         </profile>
