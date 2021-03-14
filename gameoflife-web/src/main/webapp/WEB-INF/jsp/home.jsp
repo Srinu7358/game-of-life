@@ -4,7 +4,7 @@
 <%@page import="java.util.Properties" %>
 <html>
 <head>
-    <title>Ansible Srinu The Game Of Life</title>
+    <title>Ansible Srinu Deployment</title>
     <!--  TODO: Don't inline this -->
     <style type="text/css">
         h2 {
